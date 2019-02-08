@@ -1,0 +1,12 @@
+{
+  "name": "getduration",
+  "version": "1.0.3",
+  "description": "This Module will provide you with three types of duration 1. Year to Date 2. Month to Date 3. Week to Date",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test.js"
+  },
+  "author": "Ayush",
+  "license": "ISC"
+}
